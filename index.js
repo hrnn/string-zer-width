@@ -1,4 +1,6 @@
-modulo.exports = function () {
+'use strict';
+
+module.exports = function () {
   SPACE: '\u200b',
   SPACE_HTML: '&#8203;',
   NON_JOINER: '\u200c',
